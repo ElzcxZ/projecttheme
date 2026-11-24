@@ -1,0 +1,15 @@
+/*
+ * Constants
+ *
+ * Keep colors and reusable theme values here.
+ */
+:root {
+  --theme-color-primary:#1a1a1d;
+  --theme-color-secondary: #E6DFD0;
+  --theme-color-body: #1a1a1d;
+  --theme-transition: all 0.3s ease-in-out;
+
+  --theme-font-body:"lora" , Arial, sans-serif;
+  --theme-font-heading: "cinzel" , Arial, sans-serif;
+
+}
